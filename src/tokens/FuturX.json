@@ -1,0 +1,13 @@
+{
+  "chainId": 101,
+  "address": "6VdVk3ngmTDBrZDgHCWE3U1VmKFmFTh5mnN43LJQeE9U",
+  "symbol": "FTRX",
+  "name": "FuturX",
+  "decimals": 9,
+  "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreihg3itcypukfbwexsmm3vy66eksejdplokte6tngmonzjeu2kztma",
+  "tags": ["utility-token", "social", "futuristic"],
+  "extensions": {
+    "website": "https://sites.google.com/view/quantum-santa-claus-village/home-page",
+    "description": "FuturX is a Solana-powered token created to fund an ambitious social dream: the Quantum Santa Claus Village."
+  }
+}
