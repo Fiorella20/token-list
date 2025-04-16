@@ -1,0 +1,14 @@
+{
+  "chainId": 101,
+  "address": "8RRGMNCb2bPiTkveGpkkxDtEQh3mar8gH5e3hrtSiYjS",
+  "symbol": "FTRX",
+  "name": "FuturX",
+  "decimals": 9,
+  "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreifwlkgvc3hhnxvvt5zng4mijfzrg7kd2lcbzrap6j7q3hefg2id3q",
+  "tags": ["utility-token", "social-project"],
+  "extensions": {
+    "website": "https://futurx.notion.site",
+    "twitter": "https://twitter.com/Futurx2025",
+    "description": "FuturX is the first social crypto token funding a permanent Santa Claus Village for children with disabilities."
+  }
+}
